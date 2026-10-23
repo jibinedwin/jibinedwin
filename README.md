@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jibinedwin&label=Profile%20Views&color=00c6ff&style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/jibinedwin.svg?style=for-the-badge&label=Profile%20Views&color=00c6ff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jibinedwin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jibinedwin)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jibinedwin2003@gmail.com)
 
@@ -150,7 +150,7 @@ A responsive cab booking platform with booking, registration and trip management
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jibinedwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibinedwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibinedwin&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=jibinedwin&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
